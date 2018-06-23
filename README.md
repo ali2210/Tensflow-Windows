@@ -15,4 +15,6 @@ type cd python.exe
 now type exit()
 ---------------------------------------------------------------------------
 type cd Scripts in command and then type pip install -q --upgrade tensorflow
+
+
 after 30 mins tensorflow installed on your system
