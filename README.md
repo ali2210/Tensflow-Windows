@@ -18,3 +18,20 @@ type cd Scripts in command and then type pip install -q --upgrade tensorflow
 
 
 after 30 mins tensorflow installed on your system
+
+T1.py
+------------
+if you run T1.py then you received hello world successfully
+
+BinaryClassfication.py
+-----------------------------
+This is interesting example in which some movies have positive comments and some have negavtive comments 
+1. I/O
+2. Raw Data into Tensor
+3.Train model
+4. Evaluate model performance during training
+5. Test model
+6. Evaluate test model performance 
+7. Predicition on Reviews
+
+Reference from Deep Learning with python, Francois Chollet
