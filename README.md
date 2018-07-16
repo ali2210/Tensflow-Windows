@@ -23,7 +23,7 @@ T1.py
 ------------
 if you run T1.py then you received hello world successfully
 
-BinaryClassfication.py
+BinaryClassification.py
 -----------------------------
 This is interesting example in which some movies have positive comments and some have negavtive comments 
 1. I/O
@@ -33,5 +33,15 @@ This is interesting example in which some movies have positive comments and some
 5. Test model
 6. Evaluate test model performance 
 7. Predicition on Reviews
+-----------------------------------
+Multiclass Classification.py
 
+1. reuters Dataset
+2. data vectorize
+3. to_one_hot_encoding method 1
+4. train model
+5. evaluate model performance
+6. test
+7. results 
+8. prediction
 Reference from Deep Learning with python, Francois Chollet
